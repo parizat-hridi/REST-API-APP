@@ -30,9 +30,6 @@ The [REST API Application](http://localhost:3000/apartments) is designed to expl
 #### Fonts
 * [Google Fonts](https://fonts.google.com/)
 
-#### MongoDB
-* [MongoDB](https://www.mongodb.com/)
-
 #### JSON
 * [JSON](https://www.json.org/json-en.html)
 
