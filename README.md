@@ -7,19 +7,23 @@ The [REST API Application](http://localhost:9000/apartments) is designed to expl
 ## Visual Representation:
 
 #### - Return specific data calling by ID with GET method
-![image](https://user-images.githubusercontent.com/43074604/127395226-f6ea476a-9aad-4370-b6b4-cb2d5af264fb.png)
+![Screenshot from 2021-07-29 18-30-17](https://user-images.githubusercontent.com/43074604/127491999-8ab2cb24-c287-4fcc-9d3d-98acafb05097.png)
 
-#### - Return all data
-![image (1)](https://user-images.githubusercontent.com/43074604/127395240-6d716f37-6601-4986-a544-15cfee2ca142.png)
+#### - The application is connected to a mysql database
+![Screenshot from 2021-07-29 18-27-12](https://user-images.githubusercontent.com/43074604/127491855-3c0dfc32-a194-4090-96e9-5d06a324519c.png)
+
 
 ## Advantages 
-* The application is connected to a database. 
+* The application is connected to a mysql database. 
 * The application have a REST endpoint at `/apartments` with full CRUD support so that you can make POST, GET, PUT and DELETE requests to the API.  
 * From the CRUD requests, the API performs CRUD in the database table. 
 
 ----
 
 ## Resources
+#### Fastify
+* [Fastify](https://www.fastify.io/)
+
 #### NodeJS
 * [NodeJS](https://nodejs.org/en/)
 
