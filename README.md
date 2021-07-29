@@ -6,11 +6,11 @@ The [REST API Application](http://localhost:9000/apartments) is designed to expl
 
 ## Visual Representation:
 
-#### - Return specific data calling by ID with GET method
-![Screenshot from 2021-07-29 18-30-17](https://user-images.githubusercontent.com/43074604/127491999-8ab2cb24-c287-4fcc-9d3d-98acafb05097.png)
-
 #### - The application is connected to a mysql database
 ![Screenshot from 2021-07-29 18-27-12](https://user-images.githubusercontent.com/43074604/127491855-3c0dfc32-a194-4090-96e9-5d06a324519c.png)
+
+#### - Return specific data calling by ID with GET method
+![Screenshot from 2021-07-29 18-30-17](https://user-images.githubusercontent.com/43074604/127491999-8ab2cb24-c287-4fcc-9d3d-98acafb05097.png)
 
 
 ## Advantages 
