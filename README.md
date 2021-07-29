@@ -1,7 +1,7 @@
 #  REST API Application 
 ----
 ## What is this "REST API Application" about?
-The [REST API Application](http://localhost:9000/apartments) is designed to explore Fastify, Mongodb, NodeJS, JSON.
+The [REST API Application](http://localhost:3000/apartments) is designed to explore Fastify, Mongodb, NodeJS, JSON.
 
 
 ## Visual Representation:
